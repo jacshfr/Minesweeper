@@ -1,0 +1,23 @@
+.block {
+  display: inline-block;
+  width: 20px;
+  height: 29px;
+  margin: -.5px;
+  border: 1px solid blue;
+  background-color: grey;
+
+}
+
+.game {
+  width: 234px;
+  height: 234px;
+  border: 1px solid blue;
+  margin: 0 auto;
+  padding: 2px;
+}
+
+.bomb {
+  font-size: 1em;
+  text-align: center;
+  margin: 0px;
+}
